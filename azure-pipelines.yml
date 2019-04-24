@@ -26,8 +26,8 @@ steps:
   inputs:
     SonarCloud: 'SonarCloud' #'4d6d3285-de8e-41bb-a346-987397025edb'
     organization: 'sonartech-github'
-    projectKey: '123'
-    projectName: '234'
+    projectKey: 'duncanp-123'
+    projectName: 'duncanp-123'
 
 - task: VSBuild@1
   inputs:
